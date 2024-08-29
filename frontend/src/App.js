@@ -233,5 +233,3 @@ function App() {
 }
 
 export default App;
-
-// Admin admincourses
