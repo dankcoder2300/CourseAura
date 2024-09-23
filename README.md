@@ -1,3 +1,9 @@
+# Demo URL
+frontend-tau-rust-77.vercel.app/
+# Testing Credentials
+Username: test@gmail.com
+Password: test@1234
+
 # HomePage
 ![homePage](https://github.com/user-attachments/assets/f228495a-d684-4625-9413-1586220da1f0)
 
